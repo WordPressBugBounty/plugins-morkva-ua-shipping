@@ -1,7 +1,7 @@
 === morkva UA Shipping ===
 Contributors: bandido, dpmine
 Tags: Nova Poshta, Нова Пошта, Укрпошта
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 1.12.0
 License: GPLv2
